@@ -23,6 +23,7 @@
 
 ## INFORMACION DEL PROYECTO
 **Temática**
+
 *Diseñar y prototipar soluciones biomedicas para mejorar la calidad de vida de pacientes con artrosis*
 
 **Problemática**
