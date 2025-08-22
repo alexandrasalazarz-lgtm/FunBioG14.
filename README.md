@@ -1,4 +1,4 @@
-
+![imagen](https://github.com/alexandrasalazarz-lgtm/FunBioG14./blob/603592bc9a98c18b43c3dc7c974a31ce29911e3f/IMAGENES/logopucp.png)
 # Bienvenidos al repositorio del Grupo 14 de "Fundamentos de Biodiseño"
 
 ## Miembros del equipo:
