@@ -36,3 +36,5 @@ La artrosis es una afección osteomuscular que contribuye en mayor porcentaje al
 
 **Referencias:**
 
+[1] “Osteoarthritis,” World Health Organization, Fact Sheet, Jul. 14, 2023. [Online]. Available: https://www.who.int/news-room/fact-sheets/detail/osteoarthritis. [Accessed: Aug. 22, 2025].
+
