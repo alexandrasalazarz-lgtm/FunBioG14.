@@ -2,7 +2,7 @@
 
 # Bienvenidos al repositorio del Grupo 14 de "Fundamentos de Biodiseño"
 
-## Miembros del equipo:
+## Integrantes:
 
 * **Tatiana Abigail Quispe Cueva**
 
@@ -20,3 +20,4 @@
 
 
 * **Alexandra Estephania Salazar Zarate**
+* alexandra.salazar.z@upch.pe
