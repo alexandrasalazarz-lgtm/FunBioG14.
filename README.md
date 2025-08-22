@@ -3,7 +3,7 @@
 
 ## Miembros del equipo:
 
-* ### **Tatiana Abigail Quispe Cueva**
+* **Tatiana Abigail Quispe Cueva**
 
 
 * ### **Ivanna Jael Rodriguez Cruz**
