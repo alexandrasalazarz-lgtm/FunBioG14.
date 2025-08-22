@@ -7,7 +7,7 @@
 * **Tatiana Abigail Quispe Cueva** tatiana.quispe@upch.edu.pe
 
 
-* **Ivanna Jael Rodriguez Cruz**
+* **Ivanna Jael Rodriguez Cruz** ivanna.rodriguez@upch.pe
 
 
 * **Jared Matias Neciosup Villarreal**
