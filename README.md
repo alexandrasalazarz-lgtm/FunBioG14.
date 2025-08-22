@@ -20,4 +20,4 @@
 
 
 * **Alexandra Estephania Salazar Zarate**
-* alexandra.salazar.z@upch.pe
+  *alexandra.salazar.z@upch.pe*
