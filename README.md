@@ -16,7 +16,7 @@
 * **Sebastian Adriano Reymundo Capcha** *sebastian.reymundo@upch.pe*
 
 
-* **Luciana Mercedes Saenz Villarreal** *luciana.sanez@upch.pe*
+* **Luciana Mercedes Saenz Villarreal** *luciana.saenz@upch.pe*
 
 
 * **Alexandra Estephania Salazar Zarate** *alexandra.salazar.z@upch.pe*
