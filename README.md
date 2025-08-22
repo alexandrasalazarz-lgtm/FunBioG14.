@@ -22,13 +22,13 @@
 * **Alexandra Estephania Salazar Zarate** *alexandra.salazar.z@upch.pe*
 
 ## INFORMACION DEL PROYECTO
-**Temática**
+**Temática:**
 
 *Diseñar y prototipar soluciones biomedicas para mejorar la calidad de vida de pacientes con artrosis*
 
-**Problemática**
+**Problemática:**
 
-**Justificación**
+**Justificación:**
 
-**Referencias**
+**Referencias:**
 
