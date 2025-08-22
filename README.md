@@ -4,20 +4,19 @@
 
 ## Integrantes:
 
-* **Tatiana Abigail Quispe Cueva** tatiana.quispe@upch.edu.pe
+* **Tatiana Abigail Quispe Cueva** *tatiana.quispe@upch.edu.pe*
 
 
-* **Ivanna Jael Rodriguez Cruz** ivanna.rodriguez@upch.pe
+* **Ivanna Jael Rodriguez Cruz** *ivanna.rodriguez@upch.pe*
 
 
-* **Jared Matias Neciosup Villarreal**
+* **Jared Matias Neciosup Villarreal** *jared.neciosup@upch.pe*
 
 
-* **Sebastian Adriano Reymundo Capcha**
+* **Sebastian Adriano Reymundo Capcha** *sebastian.reymundo@upch.pe*
 
 
-* **Luciana Mercedes Saenz Villarreal**
+* **Luciana Mercedes Saenz Villarreal** *luciana.sanez@upch.pe*
 
 
-* **Alexandra Estephania Salazar Zarate**
-  *alexandra.salazar.z@upch.pe*
+* **Alexandra Estephania Salazar Zarate** *alexandra.salazar.z@upch.pe*
