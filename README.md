@@ -4,7 +4,7 @@
 
 ## Integrantes:
 
-* **Tatiana Abigail Quispe Cueva**
+* **Tatiana Abigail Quispe Cueva** tatiana.quispe@upch.edu.pe
 
 
 * **Ivanna Jael Rodriguez Cruz**
