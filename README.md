@@ -20,3 +20,5 @@
 
 
 * **Alexandra Estephania Salazar Zarate** *alexandra.salazar.z@upch.pe*
+
+#INFORMACION DEL PROYECTO
