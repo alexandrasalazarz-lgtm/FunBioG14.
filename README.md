@@ -28,7 +28,7 @@ Diseñar y prototipar soluciones biomedicas para mejorar la calidad de vida de p
 
 **Problemática:**
 
-
+La artrosis es una enfermedad degenerativa la cual afecta principalmente al cartílago articular. Esta afección causa distintas limitaciones en el paciente, como dolor, rigidez y reducción del rango de movimiento en las articulaciones afectadas. Además, según la OMS, la mayor prevalencia de esta enfermedad se encuentra en las mujeres, debido a distintos factores como factores hormonales, genéticos, mayor esperanza de vida, etc.
 
 **Justificación:**
 
