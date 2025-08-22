@@ -6,16 +6,16 @@
 * **Tatiana Abigail Quispe Cueva**
 
 
-* ### **Ivanna Jael Rodriguez Cruz**
+* **Ivanna Jael Rodriguez Cruz**
 
 
-* ### **Jared Matias Neciosup Villarreal**
+* **Jared Matias Neciosup Villarreal**
 
 
-* ### **Sebastian Adriano Reymundo Capcha**
+* **Sebastian Adriano Reymundo Capcha**
 
 
-* ### **Luciana Mercedes Saenz Villarreal**
+* **Luciana Mercedes Saenz Villarreal**
 
 
-* ### **Alexandra Estephania Salazar Zarate**
+* **Alexandra Estephania Salazar Zarate**
