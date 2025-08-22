@@ -15,7 +15,7 @@
 * ### **Sebastian Adriano Reymundo Capcha**
 
 
-* ### **Saenz Villarreal L**
+* ### **Luciana Mercedes Saenz Villarreal**
 
 
-* ### **Tatiana Abigail Quispe Cueva**
+* ### **Alexandra Estephania Salazar Zarate**
