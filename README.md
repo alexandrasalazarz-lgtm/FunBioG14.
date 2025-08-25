@@ -1,4 +1,4 @@
-![LOGOPUCP](https://github.com/alexandrasalazarz-lgtm/FunBioG14./blob/603592bc9a98c18b43c3dc7c974a31ce29911e3f/IMAGENES/logopucp.png) ![LOGOUPCH](https://github.com/alexandrasalazarz-lgtm/FunBioG14./blob/41ca8e52887f31bea9a4f939a22e44fea9181f37/IMAGENES/logocayetano.png)
+![LOGOPUCP]((https://github.com/alexandrasalazarz-lgtm/FunBioG14./blob/cd670214b224eb7a91b062338901eb562789b06d/IMAGENES/361625433-f5917d88-32cc-4da6-9d7f-f75349cf09a3.png))
 
 # Bienvenidos al repositorio del Grupo 14 de "Fundamentos de Biodiseño"
 
